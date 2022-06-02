@@ -1,0 +1,10 @@
+Assuntos abordados:
+
+1 - Árvores em pesquisa binária (Banco de dados)
+2 - Índices invertidos (Ferramentas de busca)
+3 - Transformação de fourier
+4 - Algoritmos paralelos(Desempenho e escabilidades)
+5 - Mapreduce (Algoritmos distribuídos)
+6 - Filtro de bloom e hyperloglog (Pesquisa)
+7 - Algoritmos SHA (Criptografia)
+8 - Programação linear (Otimização)

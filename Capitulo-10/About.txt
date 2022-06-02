@@ -1,0 +1,8 @@
+Assuntos abordados:
+
+1 - Classificação 
+2 - Sistema de recomendações
+3 - Extração de caracteres
+4 - Regressão
+5 - Aprendizado de máquina
+6 - Filtro
